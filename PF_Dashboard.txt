@@ -21,6 +21,13 @@
       "dhisName": "COM Taux de couverture contraceptive",
       "groupCode": "G1"
     },
+	{
+      "name": "Total_TCC",
+      "type": "indicator",
+      "dhisID": "BQVccSOmNrF",
+      "dhisName": "DSFa_PF_SRMNIA-N_Taux de couverture contraceptive",
+      "groupCode": "G1"
+    },
     {
       "name": "CSB NU",
       "type": "indicator",
